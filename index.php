@@ -3,7 +3,8 @@
 		<!-- Config -->
 		<meta charset="uft-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-
+		<meta name="description" content="Erstelle eine Grafik, die dir dabei hilft, deine Spritkosten zu planen. Dieser Kostenlose Spritrechner kann mit bis zu 10 Spritpreisen gleichzeitig umgehen.">
+		<title>Fuel-Graph - Benzinkosten und Spritpreise</title>
 		<!-- Vendor -->
 		<link rel="stylesheet" href="vendor/css/pure.0.6.min.css">
 		<link rel="stylesheet" href="vendor/css/morris.css">
