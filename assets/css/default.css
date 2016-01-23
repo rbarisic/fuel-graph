@@ -1,0 +1,57 @@
+label, input, p, h2, h3, h4 {
+	font-family: 'Lato' !important;
+}
+
+div#frame {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+div.header h1 {
+	text-align: center;
+}
+
+div.info {
+	text-align: center;
+}
+
+div.container {
+	padding: 16px;
+	padding-top: 0;
+}
+
+div.container p {
+
+}
+
+form.form-reach label {
+	display: block;
+}
+
+a.more {
+	margin-top: 8px;
+}
+
+div.price-field {
+	padding-top: 8px;
+}
+
+div.price-field:first-child {
+	padding-top: 0;
+}
+
+div.price-field span {
+	margin-right: 8px ;
+}
+
+.graph-controls input {
+	display: inline-block !important;
+}
+
+.graph-controls button {
+	display: inline-block !important;
+}
+
+.l-box {
+	padding: 16px;
+}
